@@ -21,9 +21,16 @@
 ## 📥 لینک دانلود نسخه‌ها
 برای دانلود و استفاده از نسخه‌های ضد فیلتر تلگرام، می‌توانید از لینک‌های زیر استفاده کنید:
 
-- [**نسخه اندروید**](https://github.com/yourusername/repo-android) 📱
-- [**نسخه دسکتاپ**](https://github.com/yourusername/repo-desktop) 💻
-- [**نسخه وب**](https://github.com/yourusername/repo-web) 🌐
+- [**الماس گرام**](https://github.com/yourusername/repo-android) 
+- [**هاتگرام**](https://github.com/yourusername/repo-desktop) 
+- [**تلگرام طلایی**](https://github.com/yourusername/repo-web)
+- [**موبوگرام**](https://github.com/yourusername/repo-web)
+- [**لایت گرام**](https://github.com/yourusername/repo-web)
+- [**تلگرام ایکس**](https://github.com/yourusername/repo-web)
+- [**موبوپلاس**](https://github.com/yourusername/repo-web)
+- [**تلگرام پلاس**](https://github.com/yourusername/repo-web)
+- [**نیتروگرام**](https://github.com/yourusername/repo-web)
+- [**تلگراف**](https://github.com/yourusername/repo-web) 
 
 ---
 
